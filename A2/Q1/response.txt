@@ -1,0 +1,55 @@
+HTTP/1.1 302 Found
+Date: Sun, 23 Oct 2022 00:00:59 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=nmn9t3qvjhb90s9986oabiar03; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 19
+Content-Type: text/html
+
+mallory
+MyPassword
+HTTP/1.1 302 Found
+Date: Sun, 23 Oct 2022 00:00:59 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 26
+Content-Type: text/html
+
+1
+test title
+test content
+HTTP/1.1 302 Found
+Date: Sun, 23 Oct 2022 00:00:59 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: view.php?id=15
+Vary: Accept-Encoding
+Content-Length: 28
+Content-Type: text/html
+
+7
+15
+wow, this is a comment
+HTTP/1.1 302 Found
+Date: Sun, 23 Oct 2022 00:00:59 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: view.php?id=15
+Vary: Accept-Encoding
+Content-Type: text/html
